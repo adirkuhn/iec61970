@@ -1,0 +1,17 @@
+///////////////////////////////////////////////////////////
+//  Switch.cpp
+//  Implementation of the Class Switch
+//  Created on:      07-fev-2014 11:44:29
+///////////////////////////////////////////////////////////
+
+#include "Switch.h"
+
+Switch::Switch()
+{
+
+}
+
+Switch::~Switch()
+{
+
+}

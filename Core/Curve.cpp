@@ -1,0 +1,18 @@
+///////////////////////////////////////////////////////////
+//  Curve.cpp
+//  Implementation of the Class Curve
+//  Created on:      07-fev-2014 11:43:38
+///////////////////////////////////////////////////////////
+
+#include "Curve.h"
+
+
+Curve::Curve(){
+
+}
+
+
+
+Curve::~Curve(){
+
+}

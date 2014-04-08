@@ -1,0 +1,17 @@
+///////////////////////////////////////////////////////////
+//  String.cpp
+//  Implementation of the Class String
+//  Created on:      07-fev-2014 11:44:26
+///////////////////////////////////////////////////////////
+
+#include "String.h"
+
+String::String()
+{
+
+}
+
+String::~String()
+{
+
+}

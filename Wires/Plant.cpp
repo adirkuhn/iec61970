@@ -1,0 +1,18 @@
+///////////////////////////////////////////////////////////
+//  Plant.cpp
+//  Implementation of the Class Plant
+//  Created on:      07-fev-2014 11:44:14
+///////////////////////////////////////////////////////////
+
+#include "Plant.h"
+
+
+Plant::Plant(){
+
+}
+
+
+
+Plant::~Plant(){
+
+}

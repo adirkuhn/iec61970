@@ -1,0 +1,18 @@
+///////////////////////////////////////////////////////////
+//  Money.cpp
+//  Implementation of the Class Money
+//  Created on:      07-fev-2014 11:44:10
+///////////////////////////////////////////////////////////
+
+#include "Money.h"
+
+
+Money::Money(){
+
+}
+
+
+
+Money::~Money(){
+
+}

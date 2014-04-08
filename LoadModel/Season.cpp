@@ -1,0 +1,18 @@
+///////////////////////////////////////////////////////////
+//  Season.cpp
+//  Implementation of the Class Season
+//  Created on:      07-fev-2014 11:44:23
+///////////////////////////////////////////////////////////
+
+#include "Season.h"
+
+
+Season::Season(){
+
+}
+
+
+
+Season::~Season(){
+
+}

@@ -1,0 +1,18 @@
+///////////////////////////////////////////////////////////
+//  Hours.cpp
+//  Implementation of the Class Hours
+//  Created on:      07-fev-2014 11:43:59
+///////////////////////////////////////////////////////////
+
+#include "Hours.h"
+
+
+Hours::Hours(){
+
+}
+
+
+
+Hours::~Hours(){
+
+}

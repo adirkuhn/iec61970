@@ -1,0 +1,18 @@
+///////////////////////////////////////////////////////////
+//  Limit.cpp
+//  Implementation of the Class Limit
+//  Created on:      07-fev-2014 11:44:04
+///////////////////////////////////////////////////////////
+
+#include "Limit.h"
+
+
+Limit::Limit(){
+
+}
+
+
+
+Limit::~Limit(){
+
+}

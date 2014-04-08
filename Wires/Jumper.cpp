@@ -1,0 +1,18 @@
+///////////////////////////////////////////////////////////
+//  Jumper.cpp
+//  Implementation of the Class Jumper
+//  Created on:      07-fev-2014 11:44:03
+///////////////////////////////////////////////////////////
+
+#include "Jumper.h"
+
+
+Jumper::Jumper(){
+
+}
+
+
+
+Jumper::~Jumper(){
+
+}

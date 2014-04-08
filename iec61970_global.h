@@ -1,0 +1,12 @@
+#ifndef IEC61970_GLOBAL_H
+#define IEC61970_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+#if defined(IEC61970_LIBRARY)
+#  define IEC61970SHARED_EXPORT Q_DECL_EXPORT
+#else
+#  define IEC61970SHARED_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif // IEC61970_GLOBAL_H

@@ -1,0 +1,18 @@
+///////////////////////////////////////////////////////////
+//  Weight.cpp
+//  Implementation of the Class Weight
+//  Created on:      07-fev-2014 11:44:36
+///////////////////////////////////////////////////////////
+
+#include "Weight.h"
+
+
+Weight::Weight(){
+
+}
+
+
+
+Weight::~Weight(){
+
+}

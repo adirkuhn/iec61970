@@ -7,7 +7,7 @@
 #if !defined(EA_82B22887_1B3F_4236_B255_63220B572CDA__INCLUDED_)
 #define EA_82B22887_1B3F_4236_B255_63220B572CDA__INCLUDED_
 
-#include "Float.h"
+#include "lFloat.h"
 #include "Currency.h"
 #include "UnitMultiplier.h"
 #include "UnitSymbol.h"

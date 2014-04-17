@@ -7,7 +7,7 @@
 #if !defined(EA_606AE1C6_392E_426b_B830_6105C03B7B27__INCLUDED_)
 #define EA_606AE1C6_392E_426b_B830_6105C03B7B27__INCLUDED_
 
-#include <String.h>
+#include <lString.h>
 
 class ModelingAuthoritySet;
 class DiagramObject;

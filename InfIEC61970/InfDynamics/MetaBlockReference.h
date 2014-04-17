@@ -8,7 +8,7 @@
 #if !defined(EA_B2BE8CFA_D540_41cf_9BE6_871D74938D83__INCLUDED_)
 #define EA_B2BE8CFA_D540_41cf_9BE6_871D74938D83__INCLUDED_
 
-#include "String.h"
+#include "lString.h"
 #include "MetaBlockStateReference.h"
 #include "BlockParameter.h"
 #include "MetaBlockOutputReference.h"

@@ -7,7 +7,7 @@
 #if !defined(EA_27E75EA2_41CC_401e_8518_CBD31279FD77__INCLUDED_)
 #define EA_27E75EA2_41CC_401e_8518_CBD31279FD77__INCLUDED_
 
-#include "Float.h"
+#include "lFloat.h"
 #include "UnitSymbol.h"
 #include "UnitMultiplier.h"
 

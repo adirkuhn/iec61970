@@ -10,7 +10,7 @@
 
 #include "Integer.h"
 #include "Boolean.h"
-#include "Float.h"
+#include "lFloat.h"
 #include "AngleDegrees.h"
 #include "IdentifiedObject.h"
 #include "Diagram.h"

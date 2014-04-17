@@ -8,7 +8,7 @@
 #if !defined(EA_810079A7_462D_4cdf_8127_3F0E04293A19__INCLUDED_)
 #define EA_810079A7_462D_4cdf_8127_3F0E04293A19__INCLUDED_
 
-#include "Float.h"
+#include "lFloat.h"
 #include "StaticLoadType.h"
 #include "AggregateLoad.h"
 

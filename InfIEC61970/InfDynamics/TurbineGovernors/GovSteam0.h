@@ -8,7 +8,7 @@
 #if !defined(EA_38C17BC1_CE70_4359_B4EE_A705C6FF9DBF__INCLUDED_)
 #define EA_38C17BC1_CE70_4359_B4EE_A705C6FF9DBF__INCLUDED_
 
-#include "Float.h"
+#include "lFloat.h"
 #include "ActivePower.h"
 #include "Seconds.h"
 #include "TurbineGovernor.h"

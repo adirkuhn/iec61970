@@ -7,7 +7,7 @@
 #if !defined(EA_8365B0CE_D1F2_486a_AEF3_270DDCAD45DA__INCLUDED_)
 #define EA_8365B0CE_D1F2_486a_AEF3_270DDCAD45DA__INCLUDED_
 
-#include "String.h"
+#include "lString.h"
 
 #include "IdentifiedObject.h"
 

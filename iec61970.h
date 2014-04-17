@@ -2,6 +2,7 @@
 #define IEC61970_H
 
 #include "iec61970_global.h"
+#include <ctime>
 
 class IEC61970SHARED_EXPORT IEC61970
 {

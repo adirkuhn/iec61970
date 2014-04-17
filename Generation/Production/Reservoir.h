@@ -8,9 +8,9 @@
 #define EA_C4FDC117_7BD4_430d_97D6_17C6581864DF__INCLUDED_
 
 #include "Volume.h"
-#include "Float.h"
+#include "lFloat.h"
 #include "WaterLevel.h"
-#include "String.h"
+#include "lString.h"
 #include "Seconds.h"
 #include "Length.h"
 #include "SpillwayGateType.h"

@@ -18,7 +18,7 @@
 #include "GeneratorControlSource.h"
 #include "GeneratorOperatingMode.h"
 #include "PerCent.h"
-#include "Float.h"
+#include "lFloat.h"
 #include "Classification.h"
 #include "Money.h"
 #include "GenUnitOpSchedule.h"

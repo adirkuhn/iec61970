@@ -9,7 +9,7 @@
 
 #include <QList>
 
-#include "Float.h"
+#include "lFloat.h"
 #include "Boolean.h"
 #include "AnalogValue.h"
 #include "Measurement.h"

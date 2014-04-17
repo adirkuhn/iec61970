@@ -10,7 +10,7 @@
 #include "Seconds.h"
 #include "ReactivePower.h"
 #include "ActivePower.h"
-#include "Float.h"
+#include "lFloat.h"
 #include "CoolantType.h"
 #include "Voltage.h"
 #include "SynchronousMachineOperatingMode.h"

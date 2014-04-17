@@ -8,7 +8,7 @@
 #if !defined(EA_D0C6F48E_3A1F_42a5_9FB4_46EFC9579E88__INCLUDED_)
 #define EA_D0C6F48E_3A1F_42a5_9FB4_46EFC9579E88__INCLUDED_
 
-#include "String.h"
+#include "lString.h"
 #include "NameTypeAuthority.h"
 
 /**

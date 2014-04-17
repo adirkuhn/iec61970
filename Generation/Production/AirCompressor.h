@@ -7,7 +7,7 @@
 #if !defined(EA_52E5682F_4382_49d9_90CA_BF5D847BC3B6__INCLUDED_)
 #define EA_52E5682F_4382_49d9_90CA_BF5D847BC3B6__INCLUDED_
 
-#include "Float.h"
+#include "lFloat.h"
 #include "PowerSystemResource.h"
 
 /**

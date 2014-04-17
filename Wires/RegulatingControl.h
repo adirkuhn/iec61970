@@ -8,7 +8,7 @@
 #if !defined(EA_706ED853_9141_4fbb_88AE_9F8A6DD4149C__INCLUDED_)
 #define EA_706ED853_9141_4fbb_88AE_9F8A6DD4149C__INCLUDED_
 
-#include "Float.h"
+#include "lFloat.h"
 #include "Boolean.h"
 
 #include "RegulatingControlModeKind.h"

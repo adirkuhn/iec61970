@@ -8,7 +8,7 @@
 #if !defined(EA_E3B40377_A30E_423a_93D4_CCD9F57BF2D3__INCLUDED_)
 #define EA_E3B40377_A30E_423a_93D4_CCD9F57BF2D3__INCLUDED_
 
-#include "Float.h"
+#include "lFloat.h"
 #include "Frequency.h"
 #include "ActivePower.h"
 #include "Seconds.h"

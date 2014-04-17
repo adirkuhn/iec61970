@@ -8,7 +8,7 @@
 #define EA_58A4643E_E7D2_4ceb_9C88_6F8D453D2DDB__INCLUDED_
 
 #include "Seconds.h"
-#include "Float.h"
+#include "lFloat.h"
 
 /**
  * TimePoints for a schedule where the time between the points varies.

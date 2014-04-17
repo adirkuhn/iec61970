@@ -9,7 +9,7 @@
 #define EA_1B636A72_1484_4292_B2FC_6B688CB04C40__INCLUDED_
 
 #include "PerCent.h"
-#include "Float.h"
+#include "lFloat.h"
 #include "Integer.h"
 
 class RatioTapChangerTabular;

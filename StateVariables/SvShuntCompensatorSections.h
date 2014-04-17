@@ -8,7 +8,7 @@
 #if !defined(EA_47CE31EB_190B_4b48_8F0C_99B5CEE7D892__INCLUDED_)
 #define EA_47CE31EB_190B_4b48_8F0C_99B5CEE7D892__INCLUDED_
 
-#include "Float.h"
+#include "lFloat.h"
 #include "ShuntCompensator.h"
 #include "StateVariable.h"
 

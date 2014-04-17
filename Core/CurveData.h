@@ -7,7 +7,7 @@
 #if !defined(EA_910D1443_0C02_4b47_873D_2D3C3641DA15__INCLUDED_)
 #define EA_910D1443_0C02_4b47_873D_2D3C3641DA15__INCLUDED_
 
-#include "Float.h"
+#include "lFloat.h"
 
 /**
  * Multi-purpose data points for defining a curve.  The use of this generic class

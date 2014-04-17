@@ -9,7 +9,7 @@
 #define EA_BD0C4C32_BF9C_4ab9_AD88_2E80FCE13CE7__INCLUDED_
 
 #include "Integer.h"
-#include "Float.h"
+#include "lFloat.h"
 #include "DiagramObjectGluePoint.h"
 
 /**

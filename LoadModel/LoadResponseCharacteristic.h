@@ -9,7 +9,7 @@
 #define EA_5144B6B3_F320_4982_87B2_BF78E45B9D68__INCLUDED_
 
 #include "Boolean.h"
-#include "Float.h"
+#include "lFloat.h"
 #include "IdentifiedObject.h"
 
 /**

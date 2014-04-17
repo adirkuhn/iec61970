@@ -9,7 +9,7 @@
 #define EA_F36B75CD_14B9_4ddf_8BA0_4F4F93341996__INCLUDED_
 
 #include "Boolean.h"
-#include "Float.h"
+#include "lFloat.h"
 #include "Seconds.h"
 #include "ExcitationSystem.h"
 

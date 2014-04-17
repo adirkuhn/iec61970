@@ -7,8 +7,8 @@
 #if !defined(EA_0FADE36C_D6E4_4426_9ED0_280DCAADF906__INCLUDED_)
 #define EA_0FADE36C_D6E4_4426_9ED0_280DCAADF906__INCLUDED_
 
-#include "String.h"
-#include "Float.h"
+#include "lString.h"
+#include "lFloat.h"
 #include "Sensor.h"
 
 /**

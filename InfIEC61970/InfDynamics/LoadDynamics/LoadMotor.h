@@ -8,7 +8,7 @@
 #if !defined(EA_B3B26C6D_E719_45d2_B2D8_FFDA7A8C75A6__INCLUDED_)
 #define EA_B3B26C6D_E719_45d2_B2D8_FFDA7A8C75A6__INCLUDED_
 
-#include "Float.h"
+#include "lFloat.h"
 #include "Seconds.h"
 #include "Reactance.h"
 #include "Resistance.h"

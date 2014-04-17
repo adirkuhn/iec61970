@@ -10,7 +10,7 @@
 
 #include "Frequency.h"
 #include "ActivePower.h"
-#include "Float.h"
+#include "lFloat.h"
 #include "Seconds.h"
 #include "TurbineGovernor.h"
 

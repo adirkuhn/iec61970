@@ -7,7 +7,7 @@
 #if !defined(EA_3B8DB813_B345_4bac_A51A_BF10A7A3C334__INCLUDED_)
 #define EA_3B8DB813_B345_4bac_A51A_BF10A7A3C334__INCLUDED_
 
-#include "Float.h"
+#include "lFloat.h"
 #include "UnitSymbol.h"
 #include "UnitMultiplier.h"
 

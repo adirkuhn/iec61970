@@ -8,7 +8,7 @@
 #if !defined(EA_FD1FB87F_409A_4d58_9973_B7A6EC07EEFC__INCLUDED_)
 #define EA_FD1FB87F_409A_4d58_9973_B7A6EC07EEFC__INCLUDED_
 
-#include "Float.h"
+#include "lFloat.h"
 #include "Seconds.h"
 #include "ExcitationSystem.h"
 

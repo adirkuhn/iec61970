@@ -8,7 +8,7 @@
 #define EA_C47F66B0_85F2_444e_B1A6_E46F34328C21__INCLUDED_
 
 #include "Seconds.h"
-#include "Float.h"
+#include "lFloat.h"
 #include "Boolean.h"
 #include "UnitSymbol.h"
 #include "UnitMultiplier.h"

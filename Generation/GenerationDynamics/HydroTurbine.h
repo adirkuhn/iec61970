@@ -7,7 +7,7 @@
 #if !defined(EA_9FAE33A1_454A_4e84_A32E_9FAF075A0BE9__INCLUDED_)
 #define EA_9FAE33A1_454A_4e84_A32E_9FAF075A0BE9__INCLUDED_
 
-#include "Float.h"
+#include "lFloat.h"
 #include "PU.h"
 #include "ActivePower.h"
 #include "RotationSpeed.h"

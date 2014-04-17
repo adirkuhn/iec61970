@@ -8,7 +8,7 @@
 #if !defined(EA_A4E6ABF1_C419_47d8_AAE7_6DBECDC6B9BE__INCLUDED_)
 #define EA_A4E6ABF1_C419_47d8_AAE7_6DBECDC6B9BE__INCLUDED_
 
-#include "String.h"
+#include "lString.h"
 #include "MetaBlockConInput.h"
 #include "MetaBlockConOutput.h"
 #include "IdentifiedObject.h"

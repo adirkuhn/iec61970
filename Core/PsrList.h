@@ -7,7 +7,7 @@
 #if !defined(EA_C7D05E10_2BFE_47e2_81B5_BC5C85F033B1__INCLUDED_)
 #define EA_C7D05E10_2BFE_47e2_81B5_BC5C85F033B1__INCLUDED_
 
-#include "String.h"
+#include "lString.h"
 #include "IdentifiedObject.h"
 #include "PowerSystemResource.h"
 

@@ -7,7 +7,7 @@
 #if !defined(EA_63385897_0379_4832_BE7D_08E40D5537B1__INCLUDED_)
 #define EA_63385897_0379_4832_BE7D_08E40D5537B1__INCLUDED_
 
-#include "String.h"
+#include "lString.h"
 #include "UnitSymbol.h"
 #include "UnitMultiplier.h"
 

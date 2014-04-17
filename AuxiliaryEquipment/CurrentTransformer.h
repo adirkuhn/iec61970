@@ -7,10 +7,10 @@
 #if !defined(EA_E86A1D47_3AD4_4307_8F77_4E40CDB47192__INCLUDED_)
 #define EA_E86A1D47_3AD4_4307_8F77_4E40CDB47192__INCLUDED_
 
-#include "String.h"
+#include "lString.h"
 #include "PerCent.h"
 #include "Integer.h"
-#include "Float.h"
+#include "lFloat.h"
 #include "Sensor.h"
 
 /**

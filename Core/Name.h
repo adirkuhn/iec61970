@@ -8,7 +8,7 @@
 #if !defined(EA_EAF40C4F_C3EC_4c5a_BC3E_BC43579A2BE1__INCLUDED_)
 #define EA_EAF40C4F_C3EC_4c5a_BC3E_BC43579A2BE1__INCLUDED_
 
-#include "String.h"
+#include "lString.h"
 #include "IdentifiedObject.h"
 #include "NameType.h"
 

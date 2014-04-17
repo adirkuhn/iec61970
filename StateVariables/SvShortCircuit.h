@@ -8,7 +8,7 @@
 #if !defined(EA_E9FE6C0C_24FC_4701_A18C_BEA3B2B76217__INCLUDED_)
 #define EA_E9FE6C0C_24FC_4701_A18C_BEA3B2B76217__INCLUDED_
 
-#include "Float.h"
+#include "lFloat.h"
 #include "ApparentPower.h"
 #include "StateVariable.h"
 #include "TopologicalNode.h"

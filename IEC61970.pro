@@ -4,9 +4,9 @@
 #
 #-------------------------------------------------
 
-QT       += core gui
+QT -= gui
 
-greaterThan(QT_MAJOR_VERSION, 5): QT += widgets
+#greaterThan(QT_MAJOR_VERSION, 5): QT += widgets
 
 TARGET = IEC61970
 TEMPLATE = lib
@@ -121,7 +121,7 @@ SOURCES += iec61970.cpp \
     Domain/Decimal.cpp \
     Domain/Displacement.cpp \
     Domain/Duration.cpp \
-    Domain/Float.cpp \
+    Domain/lFloat.cpp \
     Domain/FloatQuantity.cpp \
     Domain/Frequency.cpp \
     Domain/Hours.cpp \
@@ -145,12 +145,12 @@ SOURCES += iec61970.cpp \
     Domain/RotationSpeed.cpp \
     Domain/Seconds.cpp \
     Domain/Speed.cpp \
-    Domain/String.cpp \
+    Domain/lString.cpp \
     Domain/StringQuantity.cpp \
     Domain/Susceptance.cpp \
     Domain/SusceptancePerLength.cpp \
     Domain/Temperature.cpp \
-    Domain/Time.cpp \
+    Domain/lTime.cpp \
     Domain/TimeInterval.cpp \
     Domain/Voltage.cpp \
     Domain/VoltagePerReactivePower.cpp \
@@ -574,7 +574,7 @@ HEADERS += iec61970.h\
     Domain/Decimal.h \
     Domain/Displacement.h \
     Domain/Duration.h \
-    Domain/Float.h \
+    Domain/lFloat.h \
     Domain/FloatQuantity.h \
     Domain/Frequency.h \
     Domain/Hours.h \
@@ -598,12 +598,12 @@ HEADERS += iec61970.h\
     Domain/RotationSpeed.h \
     Domain/Seconds.h \
     Domain/Speed.h \
-    Domain/String.h \
+    Domain/lString.h \
     Domain/StringQuantity.h \
     Domain/Susceptance.h \
     Domain/SusceptancePerLength.h \
     Domain/Temperature.h \
-    Domain/Time.h \
+    Domain/lTime.h \
     Domain/TimeInterval.h \
     Domain/UnitMultiplier.h \
     Domain/UnitSymbol.h \
@@ -978,7 +978,7 @@ HEADERS += iec61970.h\
     Wires/VoltageControlZone.h \
     Wires/WindingConnection.h \
 
-unix {
+!win32 {
     target.path   = /usr/lib/IEC61970
     INSTALLS      += target
 
@@ -987,9 +987,9 @@ unix {
     INSTALLS      += headers
 }
 
-win32:CONFIG(release, debug|release): LIBS += -L/usr/lib/x86_64-linux-gnu/mesa/ -lGL
-else:win32:CONFIG(debug, debug|release): LIBS += -L/usr/lib/x86_64-linux-gnu/mesa/ -lGLd
-else:unix: LIBS += -L/usr/lib/x86_64-linux-gnu/mesa/ -lGL
+#win32:CONFIG(release, debug|release): LIBS += -L/usr/lib/x86_64-linux-gnu/mesa/ -lGL
+#else:win32:CONFIG(debug, debug|release): LIBS += -L/usr/lib/x86_64-linux-gnu/mesa/ -lGLd
+#else:unix: LIBS += -L/usr/lib/x86_64-linux-gnu/mesa/ -lGL
 
-INCLUDEPATH += /usr/lib/x86_64-linux-gnu/mesa
-DEPENDPATH  += /usr/lib/x86_64-linux-gnu/mesa
+#INCLUDEPATH += /usr/lib/x86_64-linux-gnu/mesa
+#DEPENDPATH  += /usr/lib/x86_64-linux-gnu/mesa

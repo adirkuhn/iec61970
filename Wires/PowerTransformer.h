@@ -10,7 +10,7 @@
 
 #include <QList>
 
-#include "String.h"
+#include "lString.h"
 #include "ConductingEquipment.h"
 #include "PowerTransformerEnd.h"
 

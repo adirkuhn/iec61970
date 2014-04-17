@@ -11,7 +11,7 @@
 #include "UnitMultiplier.h"
 #include "UnitSymbol.h"
 #include "Currency.h"
-#include "Float.h"
+#include "lFloat.h"
 
 /**
  * Cost per unit volume.

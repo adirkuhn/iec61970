@@ -9,7 +9,7 @@
 
 #include "PU.h"
 #include "BoilerControlMode.h"
-#include "Float.h"
+#include "lFloat.h"
 #include "Seconds.h"
 #include "Integer.h"
 #include "SteamSupply.h"

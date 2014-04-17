@@ -7,7 +7,7 @@
 #if !defined(EA_CD7F5284_C9E6_417b_911F_6B2B095A9904__INCLUDED_)
 #define EA_CD7F5284_C9E6_417b_911F_6B2B095A9904__INCLUDED_
 
-#include "String.h"
+#include "lString.h"
 #include "Boolean.h"
 #include "DateTime.h"
 #include "IdentifiedObject.h"

@@ -7,7 +7,7 @@
 #if !defined(EA_665A2580_1838_409d_9245_D3A3A549E295__INCLUDED_)
 #define EA_665A2580_1838_409d_9245_D3A3A549E295__INCLUDED_
 
-#include "Float.h"
+#include "lFloat.h"
 #include "PowerSystemResource.h"
 #include "SynchronousMachine.h"
 

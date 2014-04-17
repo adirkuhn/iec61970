@@ -9,7 +9,7 @@
 
 #include "UnitMultiplier.h"
 #include "UnitSymbol.h"
-#include "String.h"
+#include "lString.h"
 
 /**
  * An alphanumeric code that can be used as a reference to extra information such

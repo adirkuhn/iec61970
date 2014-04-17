@@ -7,7 +7,7 @@
 #if !defined(EA_E551834F_1D49_496f_9990_311CAA617849__INCLUDED_)
 #define EA_E551834F_1D49_496f_9990_311CAA617849__INCLUDED_
 
-#include "Float.h"
+#include "lFloat.h"
 #include "Seconds.h"
 #include "RemotePoint.h"
 

@@ -8,7 +8,7 @@
 #define EA_CC936B47_C6C7_45df_8CE4_1C44547E9BF3__INCLUDED_
 
 #include "Boolean.h"
-#include "Float.h"
+#include "lFloat.h"
 #include "RemotePoint.h"
 #include "Control.h"
 

@@ -8,7 +8,7 @@
 #if !defined(EA_6544253F_877C_430f_8A73_985AA4E976CA__INCLUDED_)
 #define EA_6544253F_877C_430f_8A73_985AA4E976CA__INCLUDED_
 
-#include "String.h"
+#include "lString.h"
 #include "MetaBlockParameter.h"
 
 /**

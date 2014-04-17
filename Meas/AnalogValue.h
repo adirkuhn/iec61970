@@ -7,7 +7,7 @@
 #if !defined(EA_772CCEBD_8AAC_4d80_A70E_D1BC26496703__INCLUDED_)
 #define EA_772CCEBD_8AAC_4d80_A70E_D1BC26496703__INCLUDED_
 
-#include "Float.h"
+#include "lFloat.h"
 #include "MeasurementValue.h"
 
 /**

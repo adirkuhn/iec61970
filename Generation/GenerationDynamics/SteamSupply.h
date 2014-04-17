@@ -7,7 +7,7 @@
 #if !defined(EA_FF914E75_5E39_406d_83BD_C867AD28F0D7__INCLUDED_)
 #define EA_FF914E75_5E39_406d_83BD_C867AD28F0D7__INCLUDED_
 
-#include "Float.h"
+#include "lFloat.h"
 #include "PowerSystemResource.h"
 #include "SteamTurbine.h"
 

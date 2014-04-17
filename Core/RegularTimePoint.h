@@ -8,7 +8,7 @@
 #define EA_027DFAFA_5BFF_4c27_8A57_6016001AAAEF__INCLUDED_
 
 #include "Integer.h"
-#include "Float.h"
+#include "lFloat.h"
 
 /**
  * Time point for a schedule where the time between the consecutive points is

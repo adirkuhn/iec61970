@@ -10,7 +10,7 @@
 #include "FuelType.h"
 #include "CostPerHeatUnit.h"
 #include "PU.h"
-#include "Float.h"
+#include "lFloat.h"
 #include "PerCent.h"
 #include "ActivePower.h"
 #include "IdentifiedObject.h"

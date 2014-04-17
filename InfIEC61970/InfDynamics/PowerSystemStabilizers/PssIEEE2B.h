@@ -8,7 +8,7 @@
 #if !defined(EA_74B9551F_4D8F_4cbf_8B6C_F12A1420FD3F__INCLUDED_)
 #define EA_74B9551F_4D8F_4cbf_8B6C_F12A1420FD3F__INCLUDED_
 
-#include "Float.h"
+#include "lFloat.h"
 #include "Integer.h"
 #include "Seconds.h"
 #include "PowerSystemStabilizer.h"

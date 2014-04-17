@@ -8,7 +8,7 @@
 #if !defined(EA_CF28C819_3B83_4498_B0DC_3C7ACED8AB79__INCLUDED_)
 #define EA_CF28C819_3B83_4498_B0DC_3C7ACED8AB79__INCLUDED_
 
-#include "Float.h"
+#include "lFloat.h"
 #include "ActivePower.h"
 #include "Seconds.h"
 #include "TurbineGovernor.h"

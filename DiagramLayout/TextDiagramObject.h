@@ -8,7 +8,7 @@
 #if !defined(EA_AB84F8B3_22D2_4098_83E5_53D5BDC48CDC__INCLUDED_)
 #define EA_AB84F8B3_22D2_4098_83E5_53D5BDC48CDC__INCLUDED_
 
-#include "String.h"
+#include "lString.h"
 #include "DiagramObject.h"
 
 /**

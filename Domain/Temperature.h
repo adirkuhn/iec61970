@@ -9,7 +9,7 @@
 
 #include "UnitMultiplier.h"
 #include "UnitSymbol.h"
-#include "Float.h"
+#include "lFloat.h"
 
 /**
  * Value of temperature in degrees Celsius.

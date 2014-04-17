@@ -10,7 +10,7 @@
 
 #include <QList>
 
-#include "Float.h"
+#include "lFloat.h"
 #include "Seconds.h"
 #include "ApparentPower.h"
 #include "Reactance.h"

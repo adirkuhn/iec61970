@@ -8,7 +8,7 @@
 #if !defined(EA_1F05EB39_C050_48be_8A7C_E2DA56C4E5AD__INCLUDED_)
 #define EA_1F05EB39_C050_48be_8A7C_E2DA56C4E5AD__INCLUDED_
 
-#include "Float.h"
+#include "lFloat.h"
 #include "ActivePower.h"
 #include "Boolean.h"
 #include "Seconds.h"

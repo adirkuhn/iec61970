@@ -9,7 +9,7 @@
 
 #include "UnitMultiplier.h"
 #include "UnitSymbol.h"
-#include "String.h"
+#include "lString.h"
 
 /**
  * Textual name for an operating mode.

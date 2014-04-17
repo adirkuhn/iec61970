@@ -8,7 +8,7 @@
 #if !defined(EA_96D5CC3C_FDEE_40e1_90FB_9350BB92A1AE__INCLUDED_)
 #define EA_96D5CC3C_FDEE_40e1_90FB_9350BB92A1AE__INCLUDED_
 
-#include "String.h"
+#include "lString.h"
 
 /**
  * Authority responsible for creation and management of names of a given type;

@@ -8,7 +8,7 @@
 #define EA_C7F2E02C_BF05_4dcd_8F02_86506F45D373__INCLUDED_
 
 #include "UnitSymbol.h"
-#include "Float.h"
+#include "lFloat.h"
 #include "UnitMultiplier.h"
 
 /**

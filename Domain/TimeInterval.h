@@ -8,7 +8,7 @@
 #if !defined(EA_929B4735_C07F_45e0_886D_CB2C47D4B49D__INCLUDED_)
 #define EA_929B4735_C07F_45e0_886D_CB2C47D4B49D__INCLUDED_
 
-#include "Time.h"
+#include "lTime.h"
 
 /**
  * Interval between two times.

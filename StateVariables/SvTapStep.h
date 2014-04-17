@@ -8,7 +8,7 @@
 #if !defined(EA_7064F3B9_E89B_4933_B8F1_46092954C933__INCLUDED_)
 #define EA_7064F3B9_E89B_4933_B8F1_46092954C933__INCLUDED_
 
-#include "Float.h"
+#include "lFloat.h"
 #include "TapChanger.h"
 #include "StateVariable.h"
 

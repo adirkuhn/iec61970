@@ -9,7 +9,7 @@
 #define EA_342F7A58_4705_4a55_8D00_6FB98F610B5A__INCLUDED_
 
 #include "OrientationKind.h"
-#include "Float.h"
+#include "lFloat.h"
 #include "IdentifiedObject.h"
 
 /**

@@ -7,7 +7,7 @@
 #if !defined(EA_86645716_42E4_4013_9895_D62AF26C823B__INCLUDED_)
 #define EA_86645716_42E4_4013_9895_D62AF26C823B__INCLUDED_
 
-#include "String.h"
+#include "lString.h"
 #include "MeasurementValue.h"
 #include "StringMeasurement.h"
 

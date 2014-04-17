@@ -7,7 +7,7 @@
 #if !defined(EA_CB9F5828_C1C1_4c27_B512_9907C1CFDED2__INCLUDED_)
 #define EA_CB9F5828_C1C1_4c27_B512_9907C1CFDED2__INCLUDED_
 
-#include "Float.h"
+#include "lFloat.h"
 #include "ActivePower.h"
 #include "PowerSystemResource.h"
 #include "ThermalGeneratingUnit.h"

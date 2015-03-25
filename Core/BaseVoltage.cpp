@@ -8,10 +8,10 @@
 
 BaseVoltage::BaseVoltage()
 {
-
+    //this->conductingEquipments = new QList;
 }
 
 BaseVoltage::~BaseVoltage()
 {
-    conductingEquipments.clear();
+    //conductingEquipments.clear();
 }

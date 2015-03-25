@@ -13,5 +13,5 @@ EnergyConsumer::EnergyConsumer()
 
 EnergyConsumer::~EnergyConsumer()
 {
-    energyConsumerPhases.clear();
+    //energyConsumerPhases.clear();
 }

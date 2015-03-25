@@ -978,7 +978,7 @@ HEADERS += iec61970.h\
     Wires/VoltageControlZone.h \
     Wires/WindingConnection.h \
 
-!win32 {
+unix {
     target.path   = /usr/lib/IEC61970
     INSTALLS      += target
 
@@ -986,10 +986,14 @@ HEADERS += iec61970.h\
     headers.files += $$HEADERS
     INSTALLS      += headers
 }
+macx {
+    target.path   = /usr/lib/IEC61970
+    INSTALLS      += target
 
+    headers.path  = /usr/include/IEC61970
+    headers.files += $$HEADERS
+    INSTALLS      += headers
+}
 #win32:CONFIG(release, debug|release): LIBS += -L/usr/lib/x86_64-linux-gnu/mesa/ -lGL
 #else:win32:CONFIG(debug, debug|release): LIBS += -L/usr/lib/x86_64-linux-gnu/mesa/ -lGLd
 #else:unix: LIBS += -L/usr/lib/x86_64-linux-gnu/mesa/ -lGL
-
-#INCLUDEPATH += /usr/lib/x86_64-linux-gnu/mesa
-#DEPENDPATH  += /usr/lib/x86_64-linux-gnu/mesa

@@ -12,5 +12,5 @@ GeographicalRegion::GeographicalRegion()
 
 GeographicalRegion::~GeographicalRegion()
 {
-    regions.clear();
+    //regions.clear();
 }

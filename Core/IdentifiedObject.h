@@ -18,6 +18,7 @@ class DiagramObject;
  */
 class IdentifiedObject
 {
+
 public:
 	IdentifiedObject();
 	virtual ~IdentifiedObject();
@@ -58,5 +59,6 @@ public:
 	 * The diagram objects that are associated with the domain object.
 	 */
     QList<DiagramObject> *diagramObjects;
+
 };
 #endif // !defined(EA_606AE1C6_392E_426b_B830_6105C03B7B27__INCLUDED_)

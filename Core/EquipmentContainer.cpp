@@ -13,5 +13,5 @@ EquipmentContainer::EquipmentContainer()
 
 EquipmentContainer::~EquipmentContainer()
 {
-    equipments.clear();
+    //equipments.clear();
 }

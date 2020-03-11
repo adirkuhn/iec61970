@@ -4,4 +4,4 @@ iec61970
 Base C++ Classes for protocol IEC 61970
 
 
-create with qmake 3.0 and Qt 5.2.0
+created with qmake 3.0 and Qt 5.2.0
